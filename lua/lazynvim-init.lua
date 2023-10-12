@@ -21,6 +21,7 @@ local plugins = {
     require("plugins.nvim-tree"),
     require("plugins.startify"),
     require("plugins.bufferline"),
+    require("plugins.easymotion")
 }
 
 
